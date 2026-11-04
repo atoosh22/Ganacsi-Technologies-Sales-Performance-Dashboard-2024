@@ -1,6 +1,7 @@
 # 📊 Ganacsi Technologies Sales Performance Dashboard 2024
 
 ![Pivot Tables](Pivot-Tables.png)
+![Sales Dashboard](Pivot-Tables.png)
 
 
 
