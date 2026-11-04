@@ -1,5 +1,5 @@
 # 📊 Ganacsi Technologies Sales Performance Dashboard 2024
-![Sales Dashboard](Screenshots/Dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 
 
